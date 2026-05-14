@@ -1,0 +1,1291 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.11.9)  14 MAY 2026 10:51
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/user/study/kuda/report/report.tex
+(/Users/user/study/kuda/report/report.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-10-09>
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2023/11/07 v1.0k Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t2aenc.dfu
+File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+3008 (decimal 12296)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+3009 (decimal 12297)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+))
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 116.
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count283
+\Gm@cntv=\count284
+\c@Gm@tempcnt=\count285
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks18
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg)) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip51
+\f@nch@offset@elh=\skip52
+\f@nch@offset@erh=\skip53
+\f@nch@offset@olh=\skip54
+\f@nch@offset@orh=\skip55
+\f@nch@offset@elf=\skip56
+\f@nch@offset@erf=\skip57
+\f@nch@offset@olf=\skip58
+\f@nch@offset@orf=\skip59
+\f@nch@height=\skip60
+\f@nch@footalignment=\skip61
+\f@nch@widthL=\skip62
+\f@nch@widthC=\skip63
+\f@nch@widthR=\skip64
+\@temptokenb=\toks19
+) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip65
+\cftbeforetoctitleskip=\skip66
+\cftaftertoctitleskip=\skip67
+\cftbeforepartskip=\skip68
+\cftpartnumwidth=\skip69
+\cftpartindent=\skip70
+\cftbeforesecskip=\skip71
+\cftsecindent=\skip72
+\cftsecnumwidth=\skip73
+\cftbeforesubsecskip=\skip74
+\cftsubsecindent=\skip75
+\cftsubsecnumwidth=\skip76
+\cftbeforesubsubsecskip=\skip77
+\cftsubsubsecindent=\skip78
+\cftsubsubsecnumwidth=\skip79
+\cftbeforeparaskip=\skip80
+\cftparaindent=\skip81
+\cftparanumwidth=\skip82
+\cftbeforesubparaskip=\skip83
+\cftsubparaindent=\skip84
+\cftsubparanumwidth=\skip85
+\cftbeforeloftitleskip=\skip86
+\cftafterloftitleskip=\skip87
+\cftbeforefigskip=\skip88
+\cftfigindent=\skip89
+\cftfignumwidth=\skip90
+\c@lofdepth=\count286
+\c@lotdepth=\count287
+\cftbeforelottitleskip=\skip91
+\cftafterlottitleskip=\skip92
+\cftbeforetabskip=\skip93
+\cfttabindent=\skip94
+\cfttabnumwidth=\skip95
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count288
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count289
+) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen157
+\Hy@linkcounter=\count290
+\Hy@pagecounter=\count291
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count292
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.def
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count293
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen158
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count294
+\Field@Width=\dimen159
+\Fld@charsize=\dimen160
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring OFF on input line 6098.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Hy@abspage=\count295
+\c@Item=\count296
+\c@Hfootnote=\count297
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
+\Fld@listcount=\count298
+\c@bookmark@seq@number=\count299
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+)
+\Hy@SectionHShift=\skip96
+) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip97
+\aftertitleunit=\skip98
+\ttl@plus=\dimen161
+\ttl@minus=\dimen162
+\ttl@toksa=\toks20
+\titlewidth=\dimen163
+\titlewidthlast=\dimen164
+\titlewidthfirst=\dimen165
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen166
+\Gin@req@width=\dimen167
+) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen168
+\captionmargin=\dimen169
+\caption@leftmargin=\dimen170
+\caption@rightmargin=\dimen171
+\caption@width=\dimen172
+\caption@indent=\dimen173
+\caption@parindent=\dimen174
+\caption@hangindent=\dimen175
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count300
+\c@continuedfloat=\count301
+Package caption Info: hyperref package is loaded.
+) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen176
+\WF@size=\dimen177
+\c@WF@wrappedlines=\count302
+\WF@box=\box54
+\WF@everypar=\toks21
+Package: wrapfig 2003/01/31  v 3.6
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.sty
+Package: babel 2025/10/22 v25.14 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+\babel@savecnt=\count303
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2050.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2052.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2054.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2055.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2056.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2058.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2083.
+\U@D=\dimen178
+\l@unhyphenated=\language79
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count304
+
+
+Package babel Warning: Configuration files are deprecated, as
+(babel)                they can break document portability.
+(babel)                Reported on input line 4172.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/arabi/bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/en/babel-english.tex) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/ru/babel-russian.tex)
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 4295.
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+)
+Package babel Info: Importing font and identification data for russian
+(babel)             from babel-ru.ini. Reported on input line 4295.
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-russian/russianb.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+Package babel Info: Making " an active character on input line 124.
+Package babel Info: Default for \cyrdash is provided on input line 163.
+)) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks22
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2025/07/28 4.6 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count305
+\FV@InFile=\read3
+\FV@TabBox=\box55
+\c@FancyVerbLine=\count306
+\FV@StepNumber=\count307
+\FV@OutFile=\write3
+) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fvextra/fvextra.sty
+Package: fvextra 2025/05/29 v1.13.2 fvextra - extensions and patches for fancyvrb
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lineno/lineno.sty
+Package: lineno 2025/05/13 line numbers on paragraphs v5.5
+\linenopenalty=\count308
+\output=\toks23
+\linenoprevgraf=\count309
+\linenumbersep=\dimen179
+\linenumberwidth=\dimen180
+\c@linenumber=\count310
+\c@pagewiselinenumber=\count311
+\c@LN@truepage=\count312
+\c@internallinenumber=\count313
+\c@internallinenumbers=\count314
+\quotelinenumbersep=\dimen181
+\bframerule=\dimen182
+\bframesep=\dimen183
+\bframebox=\box56
+)
+\c@FancyVerbWriteLine=\count315
+\c@FancyVerbBufferLine=\count316
+\c@FV@TrueTabGroupLevel=\count317
+\c@FV@TrueTabCounter=\count318
+\FV@TabBox@Group=\box57
+\FV@bgcolorstructbox=\box58
+\FV@TmpLength=\skip99
+\c@FV@HighlightLinesStart=\count319
+\c@FV@HighlightLinesStop=\count320
+\FV@LoopCount=\count321
+\FV@NCharsBox=\box59
+\FV@BreakIndent=\dimen184
+\FV@BreakIndentNChars=\count322
+\FV@BreakSymbolSepLeft=\dimen185
+\FV@BreakSymbolSepLeftNChars=\count323
+\FV@BreakSymbolSepRight=\dimen186
+\FV@BreakSymbolSepRightNChars=\count324
+\FV@BreakSymbolIndentLeft=\dimen187
+\FV@BreakSymbolIndentLeftNChars=\count325
+\FV@BreakSymbolIndentRight=\dimen188
+\FV@BreakSymbolIndentRightNChars=\count326
+\c@FancyVerbLineBreakLast=\count327
+\FV@LineBox=\box60
+\FV@LineIndentBox=\box61
+\c@FV@BreakBufferDepth=\count328
+\FV@LineWidth=\dimen189
+) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/doublestroke/dsfont.sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2025/06/16 v2.17y AMS math features
+\@mathmargin=\skip100
+
+For additional information on amsmath, use the `?' option.
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks24
+\ex@=\dimen190
+)) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen191
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count329
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count330
+\leftroot@=\count331
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count332
+\DOTSCASE@=\count333
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box62
+\strutbox@=\box63
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen192
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count334
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count335
+\dotsspace@=\muskip18
+\c@parentequation=\count336
+\dspbrk@lvl=\count337
+\tag@help=\toks25
+\row@=\count338
+\column@=\count339
+\maxfields@=\count340
+\andhelp@=\toks26
+\eqnshift@=\dimen193
+\alignsep@=\dimen194
+\tagshift@=\dimen195
+\tagwidth@=\dimen196
+\totwidth@=\dimen197
+\lineht@=\dimen198
+\@envbody=\toks27
+\multlinegap=\skip101
+\multlinetaggap=\skip102
+\mathdisplay@stack=\toks28
+LaTeX Info: Redefining \[ on input line 2949.
+LaTeX Info: Redefining \] on input line 2950.
+)
+\@LN@amsmath@ams@eqpen=\count341
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/listings.sty
+\lst@mode=\count342
+\lst@gtempboxa=\box64
+\lst@token=\toks29
+\lst@length=\count343
+\lst@currlwidth=\dimen199
+\lst@column=\count344
+\lst@pos=\count345
+\lst@lostspace=\dimen256
+\lst@width=\dimen257
+\lst@newlines=\count346
+\lst@lineno=\count347
+\lst@maxwidth=\dimen258
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count348
+\lst@skipnumbers=\count349
+\lst@framebox=\box65
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listingsutf8/listingsutf8.sty
+Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
+) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2025/07/23 v0.6g Insert pages of external PDF documents (AM)
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count350
+\calc@Bcount=\count351
+\calc@Adimen=\dimen259
+\calc@Bdimen=\dimen260
+\calc@Askip=\skip103
+\calc@Bskip=\skip104
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count352
+\calc@Cskip=\skip105
+) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen261
+\ESO@tempdimb=\dimen262
+)
+\AM@pagewidth=\dimen263
+\AM@pageheight=\dimen264
+\AM@fboxrule=\dimen265
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2025/07/23 v0.6g Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count353
+\AM@pagebox=\box66
+\AM@global@opts=\toks30
+\AM@pagecnt=\count354
+\AM@toc@title=\toks31
+\AM@lof@heading=\toks32
+\c@AM@survey=\count355
+\AM@templatesizebox=\box67
+) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lipsum/lipsum.sty (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-10-09 L3 programming layer (loader) 
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count356
+))
+Package: l3keys2e 2025-10-09 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count357
+\l__lipsum_a_int=\count358
+\l__lipsum_b_int=\count359
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex)) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/array.sty
+Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
+\col@sep=\dimen266
+\ar@mcellbox=\box68
+\extrarowheight=\dimen267
+\NC@list=\toks33
+\extratabsurround=\skip106
+\backup@length=\skip107
+\ar@cellbox=\box69
+)
+\rotheadsize=\dimen268
+\c@nlinenum=\count360
+\TeXr@lab=\toks34
+) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count361
+\float@exts=\toks35
+\float@box=\box70
+\@float@everytoks=\toks36
+\@floatcapt=\box71
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/longtable.sty
+Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
+\LTleft=\skip108
+\LTright=\skip109
+\LTpre=\skip110
+\LTpost=\skip111
+\LTchunksize=\count362
+\LTcapwidth=\dimen269
+\LT@head=\box72
+\LT@firsthead=\box73
+\LT@foot=\box74
+\LT@lastfoot=\box75
+\LT@gbox=\box76
+\LT@cols=\count363
+\LT@rows=\count364
+\c@LT@tables=\count365
+\c@LT@chunks=\count366
+\LT@p@ftn=\toks37
+) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen270
+\lightrulewidth=\dimen271
+\cmidrulewidth=\dimen272
+\belowrulesep=\dimen273
+\belowbottomsep=\dimen274
+\aboverulesep=\dimen275
+\abovetopsep=\dimen276
+\cmidrulesep=\dimen277
+\cmidrulekern=\dimen278
+\defaultaddspace=\dimen279
+\@cmidla=\count367
+\@cmidlb=\count368
+\@aboverulesep=\dimen280
+\@belowrulesep=\dimen281
+\@thisruleclass=\count369
+\@lastruleclass=\count370
+\@thisrulewidth=\dimen282
+) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count371
+\c@ALG@rem=\count372
+\c@ALG@nested=\count373
+\ALG@tlm=\skip112
+\ALG@thistlm=\skip113
+\c@ALG@Lnr=\count374
+\c@ALG@blocknr=\count375
+\c@ALG@storecount=\count376
+\c@ALG@tmpcounter=\count377
+\ALG@tmplength=\skip114
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (report.aux
+Package babel Info: 'russian' activates 'russian' shorthands.
+(babel)             Reported on input line 8.
+)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(56.9055pt, 717.00946pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=717.00946pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 67.
+(report.out) (report.out)
+\@outlinefile=\write4
+\openout4 = `report.out'.
+
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count378
+\scratchdimen=\dimen283
+\scratchbox=\box77
+\nofMPsegments=\count379
+\nofMParguments=\count380
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count381
+\MPscratchDim=\dimen284
+\MPnumerator=\count382
+\makeMPintoPDFobject=\count383
+\everyMPtoPDFconversion=\toks39
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \th on input line 67.
+\c@lstlisting=\count384
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks40
+\inpenc@posthook=\toks41
+) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+LaTeX Font Info:    Trying to load font information for U+msa on input line 128.
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 128.
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (0.10323pt too wide) in paragraph at lines 124--132
+[]   \T2A/cmr/m/n/14.4 <<$[]$>>$[]$ 2026 ^^e3.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--132
+
+ []
+
+
+
+[1
+
+{/Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}] (report.toc)
+\tf@toc=\write5
+\openout5 = `report.toc'.
+
+
+
+[2]
+Overfull \hbox (4.31702pt too wide) in paragraph at lines 162--165
+\T2A/cmr/m/n/14.4 ^^e7^^ed^^e0-^^f7^^e8-^^f2^^e5^^eb^^fc-^^ed^^fb^^f5 ^^e2^^fb-^^f7^^e8^^f1-^^eb^^e8-^^f2^^e5^^eb^^fc-^^ed^^fb^^f5 ^^f0^^e5-^^f1^^f3^^f0-^^f1^^ee^^e2, ^^ef^^ee-^^f1^^ea^^ee^^eb^^fc-^^ea^^f3 ^^e4^^eb^^ff ^^e8^^f5 ^^f0^^e5-^^f8^^e5-^^ed^^e8^^ff ^^ed^^e5^^ee^^e1-
+ []
+
+
+
+[3]
+
+[4]
+Overfull \hbox (15.23552pt too wide) in paragraph at lines 219--222
+[]\T2A/cmr/m/n/14.4 ^^d3^^ef^^f0^^e0^^e2^^eb^^e5^^ed^^e8^^e5 ^^e2^^fb-^^ef^^ee^^eb-^^ed^^e5-^^ed^^e8-^^e5^^ec ^^ea^^ee-^^ec^^e0^^ed^^e4 ^^ee^^f1^^f3-^^f9^^e5^^f1^^f2^^e2-^^eb^^ff-^^e5^^f2-^^f1^^ff ^^f1 ^^ef^^ee-^^ec^^ee-^^f9^^fc^^fe GigaThread
+ []
+
+
+
+[5]
+Overfull \hbox (2.95097pt too wide) in paragraph at lines 237--239
+[]\T2A/cmr/m/n/14.4 ^^c2^^e8^^e4^^e5^^ee^^ea^^e0^^f0^^f2^^fb ^^f1^^e5-^^f0^^e8^^e8 Blackwell ^^f3^^e6^^e5 ^^e4^^ee-^^f1^^f2^^f3^^ef-^^ed^^fb ^^e2 ^^ef^^f0^^ee-^^e4^^e0-^^e6^^e5. ^^cd^^e0-^^e4^^bc^^e6-^^ed^^fb^^ec ^^ef^^e0^^f0^^f2-
+ []
+
+
+
+[6]
+Overfull \hbox (13.8084pt too wide) in paragraph at lines 276--278
+[]\T2A/cmr/m/n/14.4 ^^c1^^e0^^e7^^ee^^e2^^fb^^ec ^^f1^^f2^^f0^^ee-^^e8-^^f2^^e5^^eb^^fc-^^ed^^fb^^ec ^^e1^^eb^^ee-^^ea^^ee^^ec ^^e0^^f0-^^f5^^e8-^^f2^^e5^^ea-^^f2^^f3-^^f0^^fb ^^e2^^fb-^^f1^^f2^^f3-^^ef^^e0-^^e5^^f2 ^^ef^^ee-^^f2^^ee-^^ea^^ee-^^e2^^fb^^e9 ^^ec^^f3^^eb^^fc-
+ []
+
+
+Overfull \hbox (4.38235pt too wide) in paragraph at lines 279--281
+\T2A/cmr/m/n/14.4 Multiply-Accumulate). ^^ce^^ed^^e8 ^^e0^^ef-^^ef^^e0-^^f0^^e0^^f2-^^ed^^ee ^^ef^^ee^^e4-^^e4^^e5^^f0-^^e6^^e8-^^e2^^e0-^^fe^^f2 ^^e2^^fb-^^f7^^e8^^f1-^^eb^^e5-^^ed^^e8^^ff ^^f1^^ec^^e5-
+ []
+
+
+Overfull \hbox (29.99962pt too wide) in paragraph at lines 284--286
+[]\T2A/cmr/bx/n/14.4 ^^c8^^ed^^f1^^f2^^f0^^f3^^ea^^f6^^e8^^e8 DPX: \T2A/cmr/m/n/14.4 ^^c8^^ed-^^f2^^e5-^^e3^^f0^^e8-^^f0^^ee-^^e2^^e0^^ed-^^ed^^fb^^e9 ^^e2 ^^e0^^f0^^e8^^f4^^ec^^e5^^f2^^e8^^ea^^ee-^^eb^^ee^^e3^^e8^^f7^^e5^^f1^^ea^^e8^^e5 ^^f3^^f1^^f2^^f0^^ee^^e9-
+ []
+
+
+Overfull \hbox (8.19708pt too wide) in paragraph at lines 284--286
+\T2A/cmr/m/n/14.4 ^^f0^^e5-^^ea^^f3^^f0-^^f1^^e8^^e2-^^ed^^fb^^f5 ^^e0^^eb-^^e3^^ee-^^f0^^e8^^f2-^^ec^^ee^^e2 ^^e4^^e8-^^ed^^e0-^^ec^^e8-^^f7^^e5-^^f1^^ea^^ee-^^e3^^ee ^^ef^^f0^^ee-^^e3^^f0^^e0^^ec-^^ec^^e8-^^f0^^ee-^^e2^^e0-^^ed^^e8^^ff ^^ed^^e0 ^^f3^^f0^^ee^^e2^^ed^^e5
+ []
+
+
+Overfull \hbox (5.10341pt too wide) in paragraph at lines 292--293
+[]\T2A/cmr/m/n/14.4 ^^c4^^eb^^ff ^^ef^^f0^^e5^^e4^^ee^^f2-^^e2^^f0^^e0-^^f9^^e5-^^ed^^e8^^ff ^^ef^^f0^^ee-^^f1^^f2^^ee^^ff ^^e2^^fb-^^f7^^e8^^f1-^^eb^^e8-^^f2^^e5^^eb^^fc-^^ed^^fb^^f5 ^^e1^^eb^^ee-^^ea^^ee^^e2 (data starvation),
+ []
+
+
+
+[7]
+Overfull \hbox (40.18082pt too wide) in paragraph at lines 297--300
+[]\T2A/cmr/bx/n/14.4 ^^d0^^e0^^f1^^ef^^f0^^e5^^e4^^e5^^eb^^e5^^ed^^ed^^e0^^ff ^^f0^^e0^^e7-^^e4^^e5-^^eb^^ff-^^e5-^^ec^^e0^^ff ^^ef^^e0-^^ec^^ff^^f2^^fc (Distributed Shared Memory,
+ []
+
+
+
+[8]
+
+[9]
+
+[10]
+Overfull \hbox (0.58133pt too wide) in paragraph at lines 376--377
+[]\T2A/cmr/bx/n/14.4 ^^cc^^e5^^f5^^e0^^ed^^e8^^e7^^ec ^^f1^^f2^^f0^^f3^^ea-^^f2^^f3^^f0-^^ed^^ee^^e9 ^^f0^^e0^^e7-^^f0^^e5-^^e6^^e5^^ed-^^ed^^ee-^^f1^^f2^^e8 (Structural Sparsity):
+ []
+
+
+Overfull \hbox (1.14607pt too wide) in paragraph at lines 377--378
+\T2A/cmr/m/n/14.4 ^^ef^^ee^^eb-^^ed^^ff-^^fe-^^f9^^e8^^e5 ^^ef^^e0-^^f0^^e0^^eb-^^eb^^e5^^eb^^fc-^^ed^^fb^^e5 ^^e2^^fb-^^f7^^e8^^f1-^^eb^^e5-^^ed^^e8^^ff ^^ef^^e5-^^f0^^e5-^^f1^^e5-^^f7^^e5-^^ed^^e8^^e9 ^^eb^^f3-^^f7^^e5^^e9 ^^f1 ^^f2^^f0^^e5-^^f3^^e3^^ee^^eb^^fc-
+ []
+
+
+
+[11]
+Overfull \hbox (12.19975pt too wide) in paragraph at lines 404--405
+[]\T2A/cmr/bx/n/14.4 ^^c0^^ef^^ef^^e0^^f0^^e0^^f2^^ed^^e0^^ff ^^ef^^ee^^e4-^^e4^^e5^^f0^^e6-^^ea^^e0 ^^f1^^ec^^e5-^^f8^^e0^^ed-^^ed^^ee^^e9 ^^f2^^ee^^f7-^^ed^^ee-^^f1^^f2^^e8 (Mixed-Precision
+ []
+
+
+
+[12]
+
+[13]
+Overfull \hbox (38.83401pt too wide) in paragraph at lines 440--441
+[]\T2A/cmr/bx/n/14.4 ^^d2^^f0^^e5^^f2^^fc^^e5 ^^ef^^ee-^^ea^^ee-^^eb^^e5-^^ed^^e8^^e5 ^^e4^^e5^^eb^^fc^^f2^^e0-^^f1^^e6^^e0^^f2^^e8^^ff ^^f6^^e2^^e5-^^f2^^e0 (Delta Color Compression):
+ []
+
+
+
+[14]
+Overfull \hbox (20.57928pt too wide) in paragraph at lines 461--462
+\T2A/cmr/m/n/14.4 ^^e8^^f1-^^ef^^ee^^eb^^fc-^^e7^^f3-^^e5^^f2 ^^e5^^e4^^e8-^^ed^^fb^^e9 ^^ec^^e0^^f1-^^f1^^e8^^e2 ^^ef^^ee-^^f2^^ee-^^ea^^ee-^^e2^^fb^^f5 ^^ef^^f0^^ee-^^f6^^e5^^f1-^^f1^^ee-^^f0^^ee^^e2 (Streaming Processors,
+ []
+
+
+
+[15]
+Overfull \hbox (4.3562pt too wide) in paragraph at lines 467--468
+[]\T2A/cmr/m/n/14.4 ^^c2^^fb^^f7^^e8^^f1^^eb^^e8^^f2^^e5^^eb^^fc^^ed^^fb^^e5 ^^f0^^e5-^^f1^^f3^^f0-^^f1^^fb Tesla ^^f1^^e3^^f0^^f3^^ef-^^ef^^e8-^^f0^^ee-^^e2^^e0-^^ed^^fb ^^e2 ^^e8^^e5^^f0^^e0^^f0-^^f5^^e8-^^f7^^e5-^^f1^^ea^^f3^^fe ^^f1^^f2^^f0^^f3^^ea-
+ []
+
+
+Overfull \hbox (13.90848pt too wide) in paragraph at lines 469--470
+\T2A/cmr/m/n/14.4 ^^f4^^f3^^ed^^ea-^^f6^^e8-^^ee-^^ed^^e0^^eb^^fc-^^ed^^fb^^f5 ^^e1^^eb^^ee-^^ea^^e0 (SFU) ^^e4^^eb^^ff ^^e2^^fb-^^f7^^e8^^f1-^^eb^^e5-^^ed^^e8^^ff ^^f2^^f0^^e0^^ed^^f1-^^f6^^e5^^ed-^^e4^^e5^^ed^^f2-^^ed^^fb^^f5 ^^f4^^f3^^ed^^ea-
+ []
+
+
+Overfull \hbox (1.95659pt too wide) in paragraph at lines 479--480
+[]\T2A/cmr/bx/n/14.4 ^^d2^^e5^^ea^^f1^^f2^^f3^^f0^^ed^^fb^^e9 ^^e8 ^^ea^^ee^^ed-^^f1^^f2^^e0^^ed^^f2-^^ed^^fb^^e9 ^^ea^^fd-^^f8^^e8: \T2A/cmr/m/n/14.4 ^^cd^^e5^^f1^^ec^^ee^^f2-^^f0^^ff ^^ed^^e0 ^^f3^^ed^^e8-^^e2^^e5^^f0-^^f1^^e0^^eb^^fc-^^ed^^ee^^f1^^f2^^fc,
+ []
+
+
+
+[16]
+Overfull \hbox (44.98788pt too wide) in paragraph at lines 482--482
+|[]\T2A/cmr/bx/n/20.74 ^^c2^^fb^^f7^^e8^^f1^^eb^^e8^^f2^^e5^^eb^^fc^^ed^^fb^^e5 ^^e2^^ee^^e7-^^ec^^ee^^e6-^^ed^^ee-^^f1^^f2^^e8 Nvidia CUDA| 
+ []
+
+
+Overfull \hbox (17.0327pt too wide) in paragraph at lines 507--508
+[]\T2A/cmr/bx/n/14.4 ^^cf^^eb^^e0^^ed^^e8^^f0^^ee^^e2^^f9^^e8^^ea^^e8\T2A/cmr/m/n/14.4 : ^^ee^^f1^^ed^^e0-^^f9^^bc^^ed 4 ^^ef^^eb^^e0-^^ed^^e8-^^f0^^ee^^e2-^^f9^^e8-^^ea^^e0-^^ec^^e8 ^^e2^^e0^^f0-^^ef^^ee^^e2 (Warp Scheduler),
+ []
+
+
+
+[17]
+Overfull \hbox (9.68047pt too wide) in paragraph at lines 544--546
+\OT1/cmr/m/n/14.4 4 \OMS/cmsy/m/n/14.4 ^^B \OT1/cmr/m/n/14.4 4$ \T2A/cmr/m/n/14.4 (^^e2^^f5^^ee^^e4-^^ed^^fb^^e5 ^^e4^^e0^^ed-^^ed^^fb^^e5 ^^e2 ^^f4^^ee^^f0-^^ec^^e0-^^f2^^e5 FP16/FP32, ^^e2^^fb-^^f5^^ee^^e4-^^ed^^fb^^e5 ^^V FP32/FP64),
+ []
+
+
+
+[18]
+<pics/threads-organization.png, id=241, 319.1925pt x 405.515pt>
+File: pics/threads-organization.png Graphic file (type png)
+<use pics/threads-organization.png>
+Package pdftex.def Info: pics/threads-organization.png  used on input line 569.
+(pdftex.def)             Requested size: 273.14923pt x 347.02211pt.
+
+
+[19 <./pics/threads-organization.png>]
+<pics/memory-org.png, id=251, 347.2975pt x 241.90375pt>
+File: pics/memory-org.png Graphic file (type png)
+<use pics/memory-org.png>
+Package pdftex.def Info: pics/memory-org.png  used on input line 585.
+(pdftex.def)             Requested size: 273.14923pt x 190.26396pt.
+
+
+[20 <./pics/memory-org.png>]
+
+[21]
+
+[22]
+<pics/task-scheduler.png, id=273, 246.9225pt x 294.09875pt>
+File: pics/task-scheduler.png Graphic file (type png)
+<use pics/task-scheduler.png>
+Package pdftex.def Info: pics/task-scheduler.png  used on input line 691.
+(pdftex.def)             Requested size: 136.57462pt x 162.66579pt.
+
+
+[23 <./pics/task-scheduler.png>]
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 736.
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Overfull \hbox (0.79274pt too wide) in paragraph at lines 736--737
+[]\T2A/cmr/m/n/14.4 ^^cf^^ee ^^f3^^ec^^ee^^eb-^^f7^^e0-^^ed^^e8^^fe ^^ef^^ee^^eb^^fc-^^e7^^ee-^^e2^^e0-^^f2^^e5-^^eb^^fe ^^ef^^f0^^e5^^e4^^ee-^^f1^^f2^^e0^^e2-^^eb^^ff-^^e5^^f2-^^f1^^ff ^^e4^^ee-^^f1^^f2^^f3^^ef ^^ea ^^f3^^e7-^^eb^^e0^^ec \T2A/cmtt/m/n/14.4 tornado\T2A/cmr/m/n/14.4 .
+ []
+
+
+
+[24]
+Overfull \hbox (2.70654pt too wide) in paragraph at lines 750--752
+\T2A/cmr/m/n/14.4 ^^ec^^e0 \T2A/cmtt/m/n/14.4 OpenSSH\T2A/cmr/m/n/14.4 . ^^cd^^e0 ^^f3^^f1^^f2^^f0^^ee^^e9-^^f1^^f2^^e2^^e0 ^^f1 ^^ee^^ef^^e5-^^f0^^e0-^^f6^^e8-^^ee^^ed-^^ed^^ee^^e9 ^^f1^^e8-^^f1^^f2^^e5-^^ec^^ee^^e9 MacOS Tahoe
+ []
+
+
+
+[25]
+<pics/start-page.png, id=299, 657.45625pt x 470.75874pt>
+File: pics/start-page.png Graphic file (type png)
+<use pics/start-page.png>
+Package pdftex.def Info: pics/start-page.png  used on input line 809.
+(pdftex.def)             Requested size: 364.19667pt x 260.77855pt.
+
+
+[26 <./pics/start-page.png>]
+
+[27]
+
+[28]
+Overfull \hbox (22.51273pt too wide) in paragraph at lines 892--893
+[]\T2A/cmr/m/n/14.4 ^^ca^^e0^^e6^^e4^^fb^^e9 ^^ef^^ee-^^f2^^ee^^ea ^^ee^^e1-^^f0^^e0-^^e1^^e0-^^f2^^fb-^^e2^^e0-^^e5^^f2 ^^fd^^eb^^e5-^^ec^^e5^^ed-^^f2^^fb ^^f1 ^^e8^^ed-^^e4^^e5^^ea-^^f1^^e0-^^ec^^e8 $\OML/cmm/m/it/14.4 idx \OT1/cmr/m/n/14.4 = \OML/cmm/m/it/14.4 threadId \OT1/cmr/m/n/14.4 +
+ []
+
+
+Overfull \hbox (5.33623pt too wide) in paragraph at lines 900--901
+[]\T2A/cmr/m/n/14.4 ^^c5^^f1^^eb^^e8 $\OML/cmm/m/it/14.4 P\OT1/cmr/m/n/14.4 [\OML/cmm/m/it/14.4 row\OT1/cmr/m/n/14.4 ][\OML/cmm/m/it/14.4 col\OT1/cmr/m/n/14.4 ]$ \T2A/cmr/m/n/14.4 ^^f1^^ee-^^ee^^f2-^^e2^^e5^^f2-^^f1^^f2^^e2^^f3-^^e5^^f2 ^^ea^^ee^^ed-^^f2^^f3-^^f0^^f3, ^^e2^^fb-^^ef^^ee^^eb-^^ed^^ff-^^e5^^f2-^^f1^^ff ^^f6^^e8^^ea^^eb ^^ef^^ee ^^f8^^e0^^e1-
+ []
+
+
+Overfull \hbox (37.97212pt too wide) detected at line 918
+\OML/cmm/m/it/14.4 Acc\OT1/cmr/m/n/14.4 [\OML/cmm/m/it/14.4 row\OT1/cmr/m/n/14.4 ][\OML/cmm/m/it/14.4 col\OT1/cmr/m/n/14.4 ] = [] \OML/cmm/m/it/14.4 M\OT1/cmr/m/n/14.4 [\OML/cmm/m/it/14.4 row \OT1/cmr/m/n/14.4 + \OML/cmm/m/it/14.4 shared[]delta\OT1/cmr/m/n/14.4 [\OML/cmm/m/it/14.4 k\OT1/cmr/m/n/14.4 ]\OML/cmm/m/it/14.4 :x\OT1/cmr/m/n/14.4 ][\OML/cmm/m/it/14.4 col \OT1/cmr/m/n/14.4 + \OML/cmm/m/it/14.4 shared[]delta\OT1/cmr/m/n/14.4 [\OML/cmm/m/it/14.4 k\OT1/cmr/m/n/14.4 ]\OML/cmm/m/it/14.4 :y\OT1/cmr/m/n/14.4 ]
+ []
+
+
+
+[29]
+
+[30]
+Overfull \hbox (2.12758pt too wide) in paragraph at lines 928--930
+\T2A/cmr/m/n/14.4 ^^ee^^e1^^fa-^^e5-^^ec^^e0 ^^ee^^e1-^^f0^^e0-^^e1^^e0-^^f2^^fb-^^e2^^e0-^^e5-^^ec^^fb^^f5 ^^e4^^e0^^ed-^^ed^^fb^^f5 ^^e8 ^^ef^^e0-^^f0^^e0-^^ec^^e5^^f2-^^f0^^ee^^e2 ^^e7^^e0-^^ef^^f3^^f1-^^ea^^e0, ^^f1^^e2^^ff-^^e7^^e0^^ed-^^ed^^fb^^f5 ^^f1 GPU. 
+ []
+
+
+
+[31]
+<pics/result1.png, id=339, 332.24126pt x 877.2775pt>
+File: pics/result1.png Graphic file (type png)
+<use pics/result1.png>
+Package pdftex.def Info: pics/result1.png  used on input line 953.
+(pdftex.def)             Requested size: 218.51521pt x 576.98363pt.
+<pics/result2.png, id=340, 238.8925pt x 647.41875pt>
+File: pics/result2.png Graphic file (type png)
+<use pics/result2.png>
+Package pdftex.def Info: pics/result2.png  used on input line 954.
+(pdftex.def)             Requested size: 218.51521pt x 592.19466pt.
+
+
+[32 <./pics/result1.png> <./pics/result2.png>]
+<pics/global1.png, id=348, 615.29875pt x 506.89375pt>
+File: pics/global1.png Graphic file (type png)
+<use pics/global1.png>
+Package pdftex.def Info: pics/global1.png  used on input line 984.
+(pdftex.def)             Requested size: 364.19667pt x 300.03928pt.
+<pics/global2.png, id=349, 613.29124pt x 499.8675pt>
+File: pics/global2.png Graphic file (type png)
+<use pics/global2.png>
+Package pdftex.def Info: pics/global2.png  used on input line 1010.
+(pdftex.def)             Requested size: 364.19667pt x 296.84135pt.
+
+
+[33 <./pics/global1.png>]
+<pics/global3.png, id=359, 613.29124pt x 503.8825pt>
+File: pics/global3.png Graphic file (type png)
+<use pics/global3.png>
+Package pdftex.def Info: pics/global3.png  used on input line 1036.
+(pdftex.def)             Requested size: 364.19667pt x 299.22563pt.
+
+
+[34 <./pics/global2.png>]
+<pics/shared1.png, id=367, 606.265pt x 502.87875pt>
+File: pics/shared1.png Graphic file (type png)
+<use pics/shared1.png>
+Package pdftex.def Info: pics/shared1.png  used on input line 1064.
+(pdftex.def)             Requested size: 364.19667pt x 302.09021pt.
+
+
+[35 <./pics/global3.png>]
+<pics/shared2.png, id=375, 615.29875pt x 504.88625pt>
+File: pics/shared2.png Graphic file (type png)
+<use pics/shared2.png>
+Package pdftex.def Info: pics/shared2.png  used on input line 1090.
+(pdftex.def)             Requested size: 364.19667pt x 298.85098pt.
+
+
+[36 <./pics/shared1.png>]
+<pics/shared3.png, id=383, 615.29875pt x 500.87125pt>
+File: pics/shared3.png Graphic file (type png)
+<use pics/shared3.png>
+Package pdftex.def Info: pics/shared3.png  used on input line 1116.
+(pdftex.def)             Requested size: 364.19667pt x 296.47444pt.
+
+
+[37 <./pics/shared2.png>]
+Overfull \hbox (24.2477pt too wide) in paragraph at lines 1136--1141
+\T2A/cmr/m/n/14.4 ^^bc^^f2-^^f1^^ff ^^ef^^f0^^e0^^ea-^^f2^^e8-^^f7^^e5-^^f1^^ea^^e8 ^^ef^^ee-^^f1^^f2^^ee-^^ff^^ed-^^ed^^fb^^ec: ^^e3^^eb^^ee-^^e1^^e0^^eb^^fc-^^ed^^e0^^ff ^^ef^^e0-^^ec^^ff^^f2^^fc --- $\OT1/cmr/m/n/14.4 1\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 0008$ \T2A/cmr/m/n/14.4 ^^ec^^f1, $\OT1/cmr/m/n/14.4 1\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 0233$ \T2A/cmr/m/n/14.4 ^^ec^^f1,
+ []
+
+
+
+[38 <./pics/shared3.png>]
+
+[39]
+
+[40]
+
+[41]
+Overfull \hbox (4.95467pt too wide) in paragraph at lines 1236--1237
+[]\T2A/cmr/m/n/14.4 ^^d4^^e8^^ed^^e0^^eb^^fc^^ed^^e0^^ff ^^f1^^e5-^^f0^^e8^^ff ^^fd^^ea^^f1-^^ef^^e5-^^f0^^e8-^^ec^^e5^^ed-^^f2^^ee^^e2 ^^e2^^fb-^^ef^^ee^^eb-^^ed^^e5-^^ed^^e0 ^^ed^^e0 ^^f1^^f3-^^ef^^e5^^f0-^^ea^^ee^^ec-^^ef^^fc^^fe-^^f2^^e5-^^f0^^e5 ^^be^^cf^^ee-
+ []
+
+
+Overfull \hbox (45.50684pt too wide) in paragraph at lines 1236--1237
+\T2A/cmr/m/n/14.4 ^^eb^^e8-^^f2^^e5^^f5-^^ed^^e8-^^f7^^e5-^^f1^^ea^^e8^^e9^^bf ^^f1 ^^e8^^f1-^^ef^^ee^^eb^^fc-^^e7^^ee-^^e2^^e0-^^ed^^e8-^^e5^^ec ^^e2^^fb-^^f7^^e8^^f1-^^eb^^e8-^^f2^^e5^^eb^^fc-^^ed^^ee-^^e3^^ee ^^f3^^e7-^^eb^^e0 ^^be^^cf^^ee^^eb^^e8^^f2^^e5^^f5^^ed^^e8^^ea[]^^d0^^d1^^ca
+ []
+
+
+Overfull \hbox (75.43358pt too wide) in paragraph at lines 1237--1238
+[]\T2A/cmr/m/n/14.4 ^^c2^^e0^^f0^^fc^^e8^^f0^^ee^^e2^^e0^^eb^^e8^^f1^^fc ^^f1^^eb^^e5-^^e4^^f3-^^fe-^^f9^^e8^^e5 ^^ef^^e0-^^f0^^e0-^^ec^^e5^^f2-^^f0^^fb: ^^f0^^e0^^e7-^^ec^^e5^^f0 ^^ef^^ee-^^eb^^e8-^^e3^^ee-^^ed^^e0 ($\OML/cmm/m/it/14.4 N \OT1/cmr/m/n/14.4 = 1000\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 5000\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 10 000$\T2A/cmr/m/n/14.4 ),
+ []
+
+
+Overfull \hbox (2.27734pt too wide) in paragraph at lines 1252--1253
+\T2A/cmr/m/n/14.4 ^^f0^^ee-^^ea^^ee ^^f0^^e0^^f1-^^ef^^f0^^ee-^^f1^^f2^^f0^^e0-^^ed^^bc^^ed-^^ed^^fb^^e9 ^^ef^^ee^^e4-^^f5^^ee^^e4, ^^ef^^f0^^e8 ^^ea^^ee-^^f2^^ee-^^f0^^ee^^ec ^^ef^^f0^^ee-^^e8^^e7-^^e2^^e5-^^e4^^e5-^^ed^^e8^^e5 ^^f7^^e8^^f1-^^eb^^e0 ^^e1^^eb^^ee-
+ []
+
+
+
+[42]
+
+[43]
+Underfull \hbox (badness 1132) in paragraph at lines 1265--1266
+[]\T2A/cmr/m/n/14.4 ^^d1^^f3^^ef^^e5^^f0^^ea^^ee^^ec^^ef^^fc^^fe^^f2^^e5^^f0^^ed^^fb^^e9 ^^f6^^e5^^ed^^f2^^f0 ^^V ^^d0^^e5-^^f1^^f3^^f0-^^f1^^fb ^^d1^^ca^^d6. // ^^d1^^f3-^^ef^^e5^^f0-^^ea^^ee^^ec-^^ef^^fc^^fe-
+ []
+
+
+
+[44] (report.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-10-09>
+ ***********
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: ED8B2B652D9B9CCEFBC4E412564BC125;6560.
+ ) 
+Here is how much of TeX's memory you used:
+ 21092 strings out of 468085
+ 343712 string characters out of 5422978
+ 866296 words of memory out of 5000000
+ 49335 multiletter control sequences out of 15000+600000
+ 644116 words of font info for 72 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,9n,79p,1159b,1296s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0800.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt0900.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0500.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt1440.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/lati1440.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1440.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx2488.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx2074.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1728.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1440.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on report.pdf (44 pages, 2788131 bytes).
+PDF statistics:
+ 1162 PDF objects out of 1200 (max. 8388607)
+ 121 named destinations out of 1000 (max. 500000)
+ 293 words of extra memory for PDF output out of 10000 (max. 10000000)
+
